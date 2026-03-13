@@ -32,4 +32,4 @@ jobs:
 
       - name: Link Human to Agent
         run: |
-          node scripts/manualLinkHumanToAgent.js --challenge '{"name":"byakurishi","description":"byakurishi AI Agent"}'
+          node scripts/manualLinkHumanToAgent.js --challenge '{"name":"Byakurishi","description":"Byakurishi AI Agent"}'
